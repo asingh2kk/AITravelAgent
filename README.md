@@ -5,7 +5,7 @@ An interactive AI agent that generates personalized day-trip itineraries based o
 ## Features
 
 - Accepts user input for city and interests
-- ☁Fetches real-time geolocation and weather data via Open-Meteo APIs
+- Fetches real-time geolocation and weather data via Open-Meteo APIs
 - Uses LLaMA-3 (via Groq + LangChain) to generate tailored trip itineraries
 - Modular agent logic with LangGraph for step-by-step reasoning
 - Deployed with an interactive Gradio interface
