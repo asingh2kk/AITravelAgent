@@ -1,6 +1,6 @@
 # AI Travel Agent
 
-An interactive AI agent that generates personalized day-trip itineraries based on your chosen city, interests, and real-time weather data. Built using LangGraph, LangChain, and a LLaMA-3 model, with a Gradio-powered user interface.
+An interactive AI agent that generates personalized trip itineraries based on your chosen city, interests, and real-time weather data. Built using LangGraph, LangChain, and a LLaMA-3 model, with a Gradio-powered user interface.
 
 ## Features
 
